@@ -1,4 +1,4 @@
-# Module 6 - Weather Dashboard
+# Module 9 - Professional README Generator
 
 <div align="center">
     <img src="./assets/images/screenshot.gif" width="400px"> 
