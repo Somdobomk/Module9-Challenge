@@ -13,7 +13,7 @@ quick description
 ## Installation
 node index.js
 ## Usage
-info
+none
 ## Contributing
 none
 ## Tests

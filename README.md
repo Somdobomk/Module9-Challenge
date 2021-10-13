@@ -1,5 +1,10 @@
 # Module 9 - Professional README Generator
 
+<h1 align="center">
+    <a href="https://www.loom.com/share/5529df39de6a490db03292f2125b672a" target="_blank">
+     View Demo
+    </a>
+</h1>
 <div align="center">
     <img src="./assets/images/screenshot.gif" width="600px"> 
 </div>
