@@ -1,7 +1,7 @@
 # Module 9 - Professional README Generator
 
 <div align="center">
-    <img src="./assets/images/screenshot.gif" width="400px"> 
+    <img src="./assets/images/screenshot.gif" width="600px"> 
 </div>
 
 ## User Story
