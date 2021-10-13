@@ -17,8 +17,6 @@
 	},
 	"homepage": "https://github.com/Somdobomk/Module9-Challenge#readme",
 	"dependencies": {
-		"axios": "^0.23.0",
-		"html-pdf": "^3.0.1",
 		"inquirer": "^8.2.0"
 	}
 }

@@ -4,20 +4,6 @@
     <img src="./assets/images/screenshot.gif" width="400px"> 
 </div>
 
-## Summary
-This is a cli application that will dynamically generate a PDF profile from a GitHub username. The user is prompted for a GitHub username and color which is then used as the background color for cards. The following command invokes the application: `node index.js`. The PDF is then populated using [Inquirer](https://www.npmjs.com/package/inquirer/) with the following:
-- Profile image
-- User name
-- User bio
-- Number of public repositories
-- Number of followers
-- Number of GitHub stars
-- Number of users following
-- ### And links to the following:
-    - User location using Google Maps
-    - User GitHub profile
-    - User blog
-
 ## User Story
 ```
 AS A developer
@@ -45,6 +31,6 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Built With NPM Packages
-* [Axios](https://www.npmjs.com/package/axios)
+* [Badge-Maker](https://www.npmjs.com/package/badge-maker)
 * [Inquirer](https://www.npmjs.com/package/inquirer)
-* [HTML-PDF](https://www.npmjs.com/package/html-pdf)
+* License and badge information courtesy of [lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba). 
