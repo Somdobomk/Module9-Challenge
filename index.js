@@ -14,7 +14,7 @@ const questions = [
 	{
 		type: 'list',
 		message: 'What color is your favorite color?',
-		choices: ['blue', 'green', 'red', 'purple', 'black'],
+		choices: ['black', 'blue', 'green', 'orange', 'red'],
 		name: 'color',
 		default: 'black',
 	},
@@ -49,7 +49,7 @@ function generateHTML(response) {
     margin: 0;
     }
 
-    #header {
+    header {
       background-color: ${response.color};
       color:white;
       text-align: center;
