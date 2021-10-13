@@ -33,4 +33,3 @@ THEN I am taken to the corresponding section of the README
 ## Built With NPM Packages
 * [Badge-Maker](https://www.npmjs.com/package/badge-maker)
 * [Inquirer](https://www.npmjs.com/package/inquirer)
-* License and badge information courtesy of [lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba). 

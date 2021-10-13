@@ -6,49 +6,49 @@ const generateReadMe = require('./utils/generateMarkdown');
 const questions = [
 	{
 		type: 'input',
-		name: 'Project_Title',
+		name: 'title',
 		message: 'What is your project title?',
 		default: 'Project_Title',
 	},
 
 	{
 		type: 'input',
-		name: 'Project_Description',
+		name: 'description',
 		message: 'Please give a description for your project.',
 		default: 'Project_Description',
 	},
 
 	{
 		type: 'input',
-		name: 'Installation_Instructions',
+		name: 'installation',
 		message: 'What are the install instructions for your project?',
 		default: 'Installation_Instructions',
 	},
 
 	{
 		type: 'input',
-		name: 'Usage_Information',
+		name: 'usage',
 		message: 'Provide information on how the user will use your application.',
 		default: 'Usage_Information',
 	},
 
 	{
 		type: 'input',
-		name: 'Contribution_Guidelines',
+		name: 'contribution',
 		message: 'What are the contribution guidelines for your project?',
 		default: 'Contribution_Guidelines',
 	},
 
 	{
 		type: 'input',
-		name: 'Test_Instructions',
+		name: 'test',
 		message: 'Please provide test instructions for your project.',
 		default: 'Test_Instructions',
 	},
 
 	{
 		type: 'list',
-		name: 'License_Badge',
+		name: 'license',
 		message: 'Please choose a license from the following list:',
 		choices: ['Javascript', 'Ruby', 'Haskell', 'Python'],
 		default: 'Javascript',
@@ -56,14 +56,14 @@ const questions = [
 
 	{
 		type: 'input',
-		name: 'GitHub_Username',
+		name: 'github',
 		message: 'What is your GitHub username?',
 		default: 'GitHub_Username',
 	},
 
 	{
 		type: 'input',
-		name: 'Email_Address',
+		name: 'email',
 		message: 'What is your email address?',
 		default: 'Email_Address',
 	},
