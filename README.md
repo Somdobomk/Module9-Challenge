@@ -19,7 +19,6 @@ This is a cli application that will dynamically generate a PDF profile from a Gi
     - User blog
 
 ## User Story
-
 ```
 AS A developer
 I WANT a README generator
@@ -27,7 +26,6 @@ SO THAT I can quickly create a professional README for a new project
 ```
 
 ## Acceptance Criteria
-
 ```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
@@ -46,11 +44,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Built With
-* [Node.js](https://nodejs.org/en/)
+## Built With NPM Packages
 * [Axios](https://www.npmjs.com/package/axios)
 * [Inquirer](https://www.npmjs.com/package/inquirer)
-* [jQuery](https://api.jquery.com/)
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Boostrap](https://getbootstrap.com/)
+* [HTML-PDF](https://www.npmjs.com/package/html-pdf)
