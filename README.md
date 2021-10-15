@@ -35,7 +35,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Built With NPM Packages
+## Built With
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 * [Font](https://rubjo.github.io/victor-mono/)
 * [Gruvbox Theme](https://github.com/morhetz/gruvbox)
